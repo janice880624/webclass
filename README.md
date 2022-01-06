@@ -1,6 +1,6 @@
 # Wordpress 網頁開發課程
 
-    **footer.json** 提供給大家下載做使用
+    footer.json 提供給大家下載做開發使用
 
 ## 🖱 課後須知
 
