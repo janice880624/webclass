@@ -1,6 +1,10 @@
 # Wordpress 網頁開發課程
 
-    footer.json 提供給大家下載做開發使用
+    👀 footer.json 提供給大家下載做開發使用
+
+[Elementor安裝](https://github.com/janice880624/webclass/blob/main/%E8%A3%9C%E5%85%85%E6%96%87%E4%BB%B6/Elementor%E5%AE%89%E8%A3%9D.md)
+
+[錨點設置](https://github.com/janice880624/webclass/blob/main/%E8%A3%9C%E5%85%85%E6%96%87%E4%BB%B6/%E9%8C%A8%E9%BB%9E%E8%A8%AD%E7%BD%AE.md)
 
 ## 🖱 課後須知
 
