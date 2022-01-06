@@ -23,4 +23,4 @@ https://lightsail.aws.amazon.com/ls/docs/en_us/articles/how-to-delete-static-ip
 
 https://lightsail.aws.amazon.com/ls/docs/en_us/articles/delete-an-amazon-lightsail-instance
 
-📢 ****務必確認是否關閉服務，否則會收到繳費單喔~
+📢 **務必確認是否關閉服務，否則會收到繳費單喔~**
