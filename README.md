@@ -2,11 +2,13 @@
 
     👀 footer.json 提供給大家下載做開發使用
 
-[Elementor安裝](https://github.com/janice880624/webclass/blob/main/%E8%A3%9C%E5%85%85%E6%96%87%E4%BB%B6/Elementor%E5%AE%89%E8%A3%9D.md)
+[Elementor 安裝](https://github.com/janice880624/webclass/blob/main/%E8%A3%9C%E5%85%85%E6%96%87%E4%BB%B6/Elementor%E5%AE%89%E8%A3%9D.md)
 
 [錨點設置](https://github.com/janice880624/webclass/blob/main/%E8%A3%9C%E5%85%85%E6%96%87%E4%BB%B6/%E9%8C%A8%E9%BB%9E%E8%A8%AD%E7%BD%AE.md)
 
 [備份教學](https://github.com/janice880624/webclass/blob/main/%E8%A3%9C%E5%85%85%E6%96%87%E4%BB%B6/%E5%82%99%E4%BB%BD%E6%95%99%E5%AD%B8.md)
+
+---
 
 [demo 網站](http://35.76.80.201/)
 
