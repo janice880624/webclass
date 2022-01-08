@@ -8,8 +8,6 @@
 
 [備份教學](https://github.com/janice880624/webclass/blob/main/%E8%A3%9C%E5%85%85%E6%96%87%E4%BB%B6/%E5%82%99%E4%BB%BD%E6%95%99%E5%AD%B8.md)
 
----
-
 [demo 網站](http://35.76.80.201/)
 
 ## 🖱 課後須知
